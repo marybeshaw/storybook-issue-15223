@@ -11,7 +11,7 @@ The problem happens when a set of timers exist with components with hooks as dec
 has run into.  All of the code to reproduce is in `.storybook/preview.js`. 
 
 <a  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/cra/default-js/after-storybook?preset=node=">
-  View it in Stackblitz
+  View it in Stackblitz (this link is wrong! Mary doesn't know how to fix it - the preview.js file has to change)
 </a>
 
 <h3>Testing instructions</h3>
