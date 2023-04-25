@@ -7,7 +7,7 @@
 Issue: [preview > decorators causes: "Rendered more hooks than during the previous render."
 #15223](https://github.com/storybookjs/storybook/issues/15223)
 
-The problem happens when a set of timers exist with components with hooks as decoratora, so I created a simpler situation that my team 
+The problem happens when a set of timers exist with components with hooks as decorators, so I created a simpler situation that my team 
 has run into.  All of the code to reproduce is in `.storybook/preview.js`. 
 
 <a  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/cra/default-js/after-storybook?preset=node=">
