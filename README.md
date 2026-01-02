@@ -1,4 +1,8 @@
-<h1>Create React App (Javascript)</h1>
+<h1>This project is archived.</h1>
+<p>
+  It was made to reproduce a storybook issue that has been fixed.
+</p>
+<h2>Create React App (Javascript)</h2>
 
 <p>
   This is project generated to serve as a reproduction starter for Storybook.
